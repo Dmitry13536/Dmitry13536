@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmitry13536
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
+- 👀 I’m interested in react
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
